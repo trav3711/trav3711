@@ -1,10 +1,12 @@
-### Hi there 👋
+# Travis トラビス
+
+* Recent Graduate from Lewis & Clark College living in Portland, OR
+* Improving Python skills
+* Learning JS, React, and Flask
+* Starting a career in the tech world
+* Lover of language, communication and everything Japanese
 
 <!--
-**trav3711/trav3711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
