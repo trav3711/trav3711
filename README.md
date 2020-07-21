@@ -1,10 +1,10 @@
-# Travis トラビス
+<h1 id='name', align=center> Travis トラビス </h1>
 
-* Recent Graduate from Lewis & Clark College living in Portland, OR
-* Improving Python skills
-* Learning JS, React, and Flask
-* Starting a career in the tech world
-* Lover of language, communication and everything Japanese
+<p align="center">
+Python Developer | Mathematician | Japan Enthusiast | Photographer | Cyclist
+</p>
+
+
 
 <!--
 - 🔭 I’m currently working on ...
