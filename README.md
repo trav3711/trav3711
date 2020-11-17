@@ -1,5 +1,3 @@
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/549e9b77-4c90-4c7f-8d0e-772a4ba70576/dba13kc-15c422df-165e-4dbc-93ff-046cb6fd133b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNTQ5ZTliNzctNGM5MC00YzdmLThkMGUtNzcyYTRiYTcwNTc2XC9kYmExM2tjLTE1YzQyMmRmLTE2NWUtNGRiYy05M2ZmLTA0NmNiNmZkMTMzYi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.LPqKHAWsVhZ51Z5WD26fRUfp_CW6RqO_3yeikesDzkA)
-
 <h1 id='name', align=center> Travis トラビス </h1>
 
 <p align="center">
