@@ -1,7 +1,7 @@
 <h1 id='name', align=center> Travis トラビス </h1>
 
 <p align="center">
-Developer | Mathematician | Japan Enthusiast | Photographer | Cyclist
+Development| Mathematics | Japanese | Photography
 </p>
 
 
