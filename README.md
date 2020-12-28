@@ -3,7 +3,9 @@
 <p align="center">
 Development| Mathematics | Japanese | Photography
 </p>
-
+<ol>
+  <li>January -- Build out <a href="traviscwelch.com">website</a></li>
+</ol>
 
 
 <!--
