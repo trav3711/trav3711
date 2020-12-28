@@ -7,9 +7,17 @@
 
 
   <h3>Travis's 2021 Year of code!</h3>
-  <p>Join me as I try to finish a project a month for the next 12 months</p>
+  <p>Join me as I try to finish a project a month for the next 12 months.</p>
+  <p>
+    My soft goals for this endeavor are to:
+    <ul>
+      <li>follow <a href="https://panelbear.com/blog/tech-stack/">this list</a> and become a one man SaaS developer<li>
+      <li>build my web-presence</li>
+      <li>discover what kind of software developer I want to be</li>
+    </ul>
+  </p>
   <ol>
-    <li>January -- Build out <a href="https://traviscwelch.com/">website</a> and make website for a friend</li>
+    <li><span font-weight=bold>January</span> -- Build out <a href="https://traviscwelch.com/">website</a> and make website for a friend</li>
     <li>February -- finish <a href="https://github.com/trav3711/metrics">Metrics app</a></li>
     <li>March -- Make a JLPT/Japanese web-app for language study</li>
     <li>April -- build d76, the engine for a web-based image editor</li>
