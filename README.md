@@ -10,10 +10,10 @@ Development | Mathematics | Japanese | Photography
 <h3>Travis's 2021 Year of code!</h3>
 <p>
   My objectives are simple
-  <ul>
+  <ol>
     <li>follow <a href="https://panelbear.com/blog/tech-stack/">this list</a></li>
     <li>become a full stack dev</li>
-  </ul>
+  </ol>
 </p>
 <p>
   Technologies I want to learn
