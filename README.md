@@ -18,20 +18,28 @@ Development | Mathematics | Japanese | Photography
 <p>
   Technologies I want to learn
 
-  Backend
-  <ul>
-    <li>Django</li>
-    <li>postgresql</li>
-    <li>docker / kubernetes</li>
-    <li>Azure / Digital Ocean</li>
-  </ul>
-
-  Frontend
-  <ul>
-    <li>Javascript -> Typescript</li>
-    <li>React</li>
-    <li>Next</li>
-    <li>Tailwind CSS or Bootstrap 5 I can't decide</li>
-    <li>Figma</li>
-  </ul>
-</p>
+  <table>
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Django</li>
+        <li>postgresql</li>
+        <li>docker / kubernetes</li>
+        <li>Azure / Digital Ocean</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Javascript -> Typescript</li>
+        <li>React</li>
+        <li>Next</li>
+        <li>Tailwind CSS or Bootstrap 5 I can't decide</li>
+        <li>Figma</li>
+      </ul>
+    </td>
+  </tr>
+</table>
