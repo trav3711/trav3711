@@ -7,9 +7,8 @@ Python | Javascript | Kotlin
 Development | Mathematics | Japanese | Photography
 </p>
 
-<div align='center'>
-  <h3>Travis's 2021 Year of code!</h3>
-  <p>
+<h3 align="center">Travis's 2021 Year of code!</h3>
+  <p align="center">
     My objectives are simple
     <ol>
       <li>follow <a href="https://panelbear.com/blog/tech-stack/">this list</a></li>
@@ -17,9 +16,9 @@ Development | Mathematics | Japanese | Photography
     </ol>
   </p>
   <p>
-    <h3>Technologies I want to learn:</h3>
+<h3 align="center">Technologies I want to learn:</h3>
 
-    <table>
+  <table align="center">
     <tr>
       <th>Backend</th>
       <th>Frontend</th>
@@ -44,4 +43,3 @@ Development | Mathematics | Japanese | Photography
       </td>
     </tr>
   </table>
-</div>
