@@ -9,6 +9,7 @@ Development | Mathematics | Japanese | Photography
 
 <h3 align="center">Travis's 2021 Year of code!</h3>
 
+<div align="center">
 <p align="center">
   My objectives are simple
   <ol align="center">
@@ -16,6 +17,7 @@ Development | Mathematics | Japanese | Photography
     <li>become a full stack dev</li>
   </ol>
 </p>
+</div>
 
 <h3 align="center">Technologies I want to learn:</h3>
 
