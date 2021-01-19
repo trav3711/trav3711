@@ -16,7 +16,7 @@ Development | Mathematics | Japanese | Photography
   </ol>
 </p>
 <p>
-  Technologies I want to learn
+  <h3>Technologies I want to learn:</h3>
 
   <table>
   <tr>
