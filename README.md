@@ -7,19 +7,14 @@ Python | Javascript | Kotlin
 Development | Mathematics | Japanese | Photography
 </p>
 
-<h3 align="center">Travis's 2021 Year of code!</h3>
+<h2 align="center">Travis's 2021 Year of code!</h2>
 
-<div align="center">
+<h3 align="center">Mission:</h3>
 <p align="center">
-  My objectives are simple
-  <ol align="center">
-    <li>follow <a href="https://panelbear.com/blog/tech-stack/">this list</a></li>
-    <li>become a full stack dev</li>
-  </ol>
+  To gain the tools necessary to be a full-stack engineer and build profitable full-stack apps
 </p>
-</div>
 
-<h3 align="center">Technologies I want to learn:</h3>
+<h3 align="center">Technologies I plan to learn:</h3>
 
 <table align="center">
   <tr>
