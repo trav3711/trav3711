@@ -40,6 +40,7 @@ Development | Mathematics | Japanese | Photography
     </td>
     <td>
       <ul>
+        <li>React Native</li>
         <li>Kotlin</li>
       </ul>
     </td>
