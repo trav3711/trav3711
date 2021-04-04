@@ -23,8 +23,8 @@ Development | Mathematics | Japanese | Photography
   <tr>
     <td>
       <ul>
-        <li><s>Django</s>/li>
-        <li>~~postgresql~~</li>
+        <li><s>Django</s></li>
+        <li><s>postgresql</s></li>
         <li>docker / kubernetes</li>
         <li>Azure / Digital Ocean</li>
       </ul>
@@ -35,7 +35,7 @@ Development | Mathematics | Japanese | Photography
         <li>React</li>
         <li>Next</li>
         <li>Tailwind CSS or Bootstrap 5 I can't decide</li>
-        <li>~~Figma~~</li>
+        <li><s>Figma</s></li>
       </ul>
     </td>
     <td>
