@@ -23,7 +23,7 @@ Development | Mathematics | Japanese | Photography
   <tr>
     <td>
       <ul>
-        <li>~~Django~~</li>
+        <li><s>Django</s>/li>
         <li>~~postgresql~~</li>
         <li>docker / kubernetes</li>
         <li>Azure / Digital Ocean</li>
